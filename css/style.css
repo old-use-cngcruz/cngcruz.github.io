@@ -35,14 +35,17 @@ body,
   .picofme {
     width: 350px;
     height: auto;
+    overflow: hidden;
   }
 
   .section-form {
     margin-left: -80px;
+    overflow: hidden;
   }
 
   .bio {
     padding-left: 10px;
+    overflow: hidden;
   }
 }
 
