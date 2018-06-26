@@ -21,6 +21,7 @@ body,
   font-size: 25px;
 }
 
+
 .navbar {
   background-color: rgba(0, 0, 0, 0.2); }
 
@@ -31,7 +32,7 @@ body,
 @media only screen and (max-width: 768px) {
   .navbar {
     background-color: #1C2331; } 
-
+    
   .picofme {
     width: 350px;
     height: auto;
